@@ -1,7 +1,7 @@
 # My-E-commerce-Business
 
-<b>E-commerce Name:</b> SEason
-<b>Established:<<b>b> 2016
+<b>E-commerce Name:</b> SEason </br>
+<b>Established:</b> 2016
 
 <b>Description:</b>
 
