@@ -1,0 +1,32 @@
+HTTrack3.49-2 launched on Thu, 05 Sep 2024 18:45:30 at https://slyesn.wordpress.com/
+(httrack https://slyesn.wordpress.com/ -O ~/Users/hsinyulin/Desktop/Wordpress )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:46:27	Error: 	"Method Not Allowed" (405) at link https://slyesn.wordpress.com/xmlrpc.php (from https://slyesn.wordpress.com/2018/06/09/購物網站折扣碼/)
+18:46:27	Warning: 	Found for https://slyesn.wordpress.com/2018/06/09/購物網站折扣碼/?share=twitter
+18:46:27	Warning: 	File has moved from https://slyesn.wordpress.com/2018/06/09/購物網站折扣碼/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Promo%20Code%20%2F%20Website%20Information%20Code&url=https%3A%2F%2Fslyesn.wordpress.com%2F2018%2F06%2F09%2F%25e8%25b3%25bc%25e7%2589%25a9%25e7%25b6%25b2%25e7%25ab%2599%25e6%258a%2598%25e6%2589%25a3%25e7%25a2%25bc%2F
+18:46:27	Warning: 	Found for https://slyesn.wordpress.com/2018/06/09/購物網站折扣碼/?share=facebook
+18:46:27	Warning: 	File has moved from https://slyesn.wordpress.com/2018/06/09/購物網站折扣碼/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fslyesn.wordpress.com%2F2018%2F06%2F09%2F%25e8%25b3%25bc%25e7%2589%25a9%25e7%25b6%25b2%25e7%25ab%2599%25e6%258a%2598%25e6%2589%25a3%25e7%25a2%25bc%2F&t=Promo%20Code%20%2F%20Website%20Information%20Code
+18:46:29	Warning: 	Found for https://slyesn.wordpress.com/2019/02/10/unboxing/?share=twitter
+18:46:29	Warning: 	File has moved from https://slyesn.wordpress.com/2019/02/10/unboxing/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Unboxing%21&url=https%3A%2F%2Fslyesn.wordpress.com%2F2019%2F02%2F10%2Funboxing%2F
+18:46:29	Warning: 	Found for https://slyesn.wordpress.com/2019/02/10/unboxing/?share=facebook
+18:46:29	Warning: 	File has moved from https://slyesn.wordpress.com/2019/02/10/unboxing/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fslyesn.wordpress.com%2F2019%2F02%2F10%2Funboxing%2F&t=Unboxing%21
+18:46:29	Warning: 	Found for https://slyesn.wordpress.com/2019/03/03/stussy-新品上架/?share=twitter
+18:46:29	Warning: 	File has moved from https://slyesn.wordpress.com/2019/03/03/stussy-新品上架/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Stussy%20New%20Arrivals%EF%BC%81&url=https%3A%2F%2Fslyesn.wordpress.com%2F2019%2F03%2F03%2Fstussy-%25e6%2596%25b0%25e5%2593%2581%25e4%25b8%258a%25e6%259e%25b6%2F
+18:46:29	Warning: 	Found for https://slyesn.wordpress.com/2019/03/03/stussy-新品上架/?share=facebook
+18:46:29	Warning: 	File has moved from https://slyesn.wordpress.com/2019/03/03/stussy-新品上架/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fslyesn.wordpress.com%2F2019%2F03%2F03%2Fstussy-%25e6%2596%25b0%25e5%2593%2581%25e4%25b8%258a%25e6%259e%25b6%2F&t=Stussy%20New%20Arrivals%EF%BC%81
+18:46:29	Warning: 	Found for https://slyesn.wordpress.com/2017/05/26/colourpop大回饋，全部85折/?share=twitter
+18:46:29	Warning: 	File has moved from https://slyesn.wordpress.com/2017/05/26/colourpop大回饋，全部85折/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Colourpop%20All%2015%25%20Off%21%21&url=https%3A%2F%2Fslyesn.wordpress.com%2F2017%2F05%2F26%2Fcolourpop%25e5%25a4%25a7%25e5%259b%259e%25e9%25a5%258b%25ef%25bc%258c%25e5%2585%25a8%25e9%2583%25a885%25e6%258a%2598%2F
+18:46:29	Warning: 	Found for https://slyesn.wordpress.com/2017/05/26/colourpop大回饋，全部85折/?share=facebook
+18:46:29	Warning: 	File has moved from https://slyesn.wordpress.com/2017/05/26/colourpop大回饋，全部85折/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fslyesn.wordpress.com%2F2017%2F05%2F26%2Fcolourpop%25e5%25a4%25a7%25e5%259b%259e%25e9%25a5%258b%25ef%25bc%258c%25e5%2585%25a8%25e9%2583%25a885%25e6%258a%2598%2F&t=Colourpop%20All%2015%25%20Off%21%21
+18:46:29	Warning: 	Found for https://slyesn.wordpress.com/2017/05/26/sigma這周末打折拉/?share=twitter
+18:46:29	Warning: 	File has moved from https://slyesn.wordpress.com/2017/05/26/sigma這周末打折拉/?share=twitter to https://twitter.com/intent/tweet?related=wordpressdotcom&text=Sigma%20Promotions%20this%20week%21&url=https%3A%2F%2Fslyesn.wordpress.com%2F2017%2F05%2F26%2Fsigma%25e9%2580%2599%25e5%2591%25a8%25e6%259c%25ab%25e6%2589%2593%25e6%258a%2598%25e6%258b%2589%2F
+18:46:29	Warning: 	Found for https://slyesn.wordpress.com/2017/05/26/sigma這周末打折拉/?share=facebook
+18:46:29	Warning: 	File has moved from https://slyesn.wordpress.com/2017/05/26/sigma這周末打折拉/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fslyesn.wordpress.com%2F2017%2F05%2F26%2Fsigma%25e9%2580%2599%25e5%2591%25a8%25e6%259c%25ab%25e6%2589%2593%25e6%258a%2598%25e6%258b%2589%2F&t=Sigma%20Promotions%20this%20week%21
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 0 seconds : 64 links scanned, 52 files written (6907301 bytes overall) [5735184 bytes received at 95586 bytes/sec], 1787212 bytes transferred using HTTP compression in 24 files, ratio 30%, 14.0 requests per connection
+(1 errors, 20 warnings, 0 messages)
