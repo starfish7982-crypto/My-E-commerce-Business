@@ -3,8 +3,7 @@
 <b>E-commerce Name:</b> SEason </br>
 <b>Established:</b> 2016
 
-<b>Description:</b>
-
+<b>Description:</b></br>
 Provides purchasing agent services for international websites
 Shares discount codes from foreign shopping sites
 Features product unboxing reviews
