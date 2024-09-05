@@ -1,9 +1,9 @@
 # My-E-commerce-Business
 
-E-commerce Name: SEason
-Established: 2016
+<b>E-commerce Name:</b> SEason
+<b>Established:<<b>b> 2016
 
-Description:
+<b>Description:</b>
 
 Provides purchasing agent services for international websites
 Shares discount codes from foreign shopping sites
