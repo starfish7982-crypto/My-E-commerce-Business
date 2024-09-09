@@ -1,4 +1,5 @@
 # My-E-commerce-Business
+![Background](https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Business%20Card%20-%20Stickers%20-%20QR%20code/Style1.png?raw=true)
 
 <b>E-commerce Name:</b> SEason <br>
 <b>Established:</b> 2016
@@ -20,4 +21,4 @@ Pixnet: <a target="_blank" href="http://starfish7982.pixnet.net/blog">Sally &amp
 <b>Contact Us:</b> <a target="_blank">starfish7982@gmail.com</a>
 
 
-[View Video](https://youtu.be/APkIyQe7uFQ)
+![View Video](https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Youtube.png?raw=true)
