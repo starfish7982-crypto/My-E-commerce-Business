@@ -20,4 +20,4 @@ Pixnet: <a target="_blank" href="http://starfish7982.pixnet.net/blog">Sally &amp
 <b>Contact Us:</b> <a target="_blank">starfish7982@gmail.com</a>
 
 
-[![View Video](https://i9.ytimg.com/vi_webp/APkIyQe7uFQ/mqdefault.webp?v=5a2512c1&sqp=CPCA9LYG&rs=AOn4CLA_d0Zq785DJ2AD0fbtBRpvVZNS3Q)](https://youtu.be/APkIyQe7uFQ)
+[View Video](https://youtu.be/APkIyQe7uFQ)
