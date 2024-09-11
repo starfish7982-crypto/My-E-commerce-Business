@@ -1,5 +1,8 @@
 # My-E-commerce-Business
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/starfish7982-crypto/My-E-commerce-Business/main/Smaller%20Brand%20LOGO%20SEason.jpg" alt="Brand LOGO" width="300">
+</div>
 <b>E-commerce Name:</b> SEason <br>
 <b>Established:</b> 2016
 
@@ -19,5 +22,7 @@ Yahoo Store: <a target="_blank" href="https://tw.bid.yahoo.com/booth/%E8%8E%8E%E
 Pixnet: <a target="_blank" href="http://starfish7982.pixnet.net/blog">Sally &amp; Eason's Blog</a><br>
 <br>
 <b>Contact Us:</b> <a target="_blank">starfish7982@gmail.com</a><br>
-![View Video](https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Youtube.png?raw=true)
-![Background](https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Business%20Card%20-%20Stickers%20-%20QR%20code/Style1.png?raw=true)
+<img src="https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Youtube.png?raw=true" alt="Product" width="300">
+<div align="center">
+  <img src="https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Business%20Card%20-%20Stickers%20-%20QR%20code/Style1.png?raw=true" alt="Background">
+</div>
