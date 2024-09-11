@@ -1,5 +1,4 @@
 # My-E-commerce-Business
-![Background](https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Business%20Card%20-%20Stickers%20-%20QR%20code/Style1.png?raw=true)
 
 <b>E-commerce Name:</b> SEason <br>
 <b>Established:</b> 2016
@@ -19,7 +18,6 @@ Shopee Store: <a target="_blank" href="http://shopee.tw/veasonv">SEason</a><br>
 Yahoo Store: <a target="_blank" href="https://tw.bid.yahoo.com/booth/%E8%8E%8E%E8%8E%89%E4%BC%8A%E6%A3%AE%E3%80%90S%E2%94%82E%E3%80%91store-Y6397687657?bfe=1">SEason</a><br>
 Pixnet: <a target="_blank" href="http://starfish7982.pixnet.net/blog">Sally &amp; Eason's Blog</a><br>
 <br>
-<b>Contact Us:</b> <a target="_blank">starfish7982@gmail.com</a>
-
-
+<b>Contact Us:</b> <a target="_blank">starfish7982@gmail.com</a><br>
 ![View Video](https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Youtube.png?raw=true)
+![Background](https://github.com/starfish7982-crypto/My-E-commerce-Business/blob/main/Business%20Card%20-%20Stickers%20-%20QR%20code/Style1.png?raw=true)
